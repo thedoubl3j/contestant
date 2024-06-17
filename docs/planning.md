@@ -10,6 +10,6 @@ For the features above, what is left for each one? Test coverage? Bug squash? Et
 - Determine infra/system design choices (which DB do we want etc)
 
 
-# 2. Implement Single elimination torunament generator
+# 2. Implement Single elimination tournament generator
 - Single Elim is the first thing people think of (usually) for a tournament so that is the first format we will implemenmt
 - How many teams (how do we handle odd numbers)? How do we ingest scores (simple win/loss)? Even the simple bit of ending the tournament etc. 
